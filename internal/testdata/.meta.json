@@ -1,0 +1,8 @@
+{
+    "project": "go-runner",
+    "namespace": "altstory",
+    "env": "production",
+    "type": "release",
+    "git_ref_name": "release-version",
+    "git_revision": "12345678"
+}
